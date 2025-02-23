@@ -1,2 +1,2 @@
-# 200-Amps-Switching-Welding-Machine
+# Welding-Machine
 200amp 12-mosfet switching welding machine
